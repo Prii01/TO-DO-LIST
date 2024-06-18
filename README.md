@@ -5,4 +5,4 @@
 <li>JavaScript</li>
 <br>
 <br>
-<img src="spidy.png">
+<img src="Spidy.png">
