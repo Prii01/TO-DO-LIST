@@ -3,3 +3,6 @@
 <li>HTML</li>
 <li>CSS</li>
 <li>JavaScript</li>
+<br>
+<br>
+<img src="spidy.png">
